@@ -1,0 +1,114 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: 0px auto;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    display: flex;
+}
+
+.gambar {
+    width: 50%;
+}
+
+.img-hp {
+    width: 100%;
+    height: 90%;
+}
+
+.card-wrapper {
+    width: 40%;
+}
+
+.card {
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    background-color: white;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    max-width: 350px; 
+    margin: 0 auto; 
+}
+
+.img-nama {
+    width: 200px;
+    margin-top: 40px;
+}
+
+.form {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.input {
+    width: 96%; 
+    height: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 4px;
+    margin-bottom: 6px;
+}
+
+.btn {
+    background-color: #0095f6;
+    border: 0px solid transparent;
+    margin-top: 10px;
+    width: 95%; 
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
+
+.login-with {
+    color: #385185;
+    text-decoration: none;
+    margin-bottom: 30px; 
+}
+
+.link-forgot {
+    color: grey;
+    text-decoration: none;
+    font-size: 12;
+    margin-top: 20px; 
+    display: block; 
+}
+
+.link-sign {
+    color: #0095f6;
+    text-decoration: none;
+}
+
+.container2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.get {
+    font-size: 18px;
+}
+
+.img-apps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+}
+
+.img-appstore img {
+    width: 155px;
+    height: 115px; 
+    margin: 0 10px; 
+}
+
+.img-playstore img {
+    width: auto;
+    height: 50px; 
+    margin: 0 10px; 
+}
+
